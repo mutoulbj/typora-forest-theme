@@ -14,7 +14,7 @@
   --item-hover-bg-color: #005C44;  /* sidebar footer item hover*/
   --control-text-color: #ddd;
   --control-text-hover-color: #fff;
-  --monospace: 'SourceHanSansSC','JetBrains Mono', -apple-system, sans-serif;
+  --monospace: 'RobotoMono', 'LXGWWenkaiMono', -apple-system, sans-serif;
 
   /* custom vars */
   --theme-primary-color: #00997B; /* rgb(0, 153, 123) */
@@ -88,11 +88,11 @@
 }
 html, body, #write {
   background: var(--white-color);
-  font-family: 'SourceHanSansSC','JetBrains Mono', -apple-system, sans-serif;
+  font-family: 'RobotoMono', 'LXGWWenkaiMono', -apple-system, sans-serif;
 }
 p {
   font-size: 1em;
-  font-family: 'SourceHanSansSC', 'JetBrains Mono', -apple-system, sans-serif;
+  font-family: 'RobotoMono', 'LXGWWenkaiMono', -apple-system, sans-serif;
   line-height: 1.6;
   color: var(--text-color);
 }
